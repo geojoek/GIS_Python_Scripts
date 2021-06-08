@@ -6,3 +6,6 @@
 <p>Writes out a shapefile with the rectangle.</p>
 <p> Weird things probably happen, depending on which projection you're using, if you are doing this over a Rather Large Area...</p>
 <p>Requires osgeo module:  https://anaconda.org/conda-forge/gdal</p>
+
+<h2>scale_features.py</h2>
+<p> A simple script using the <a href="https://pypi.org/project/Fiona/" target="blank">Fiona</a> and <a href="https://pypi.org/project/Shapely/" target="blank">Shapely</a> libraries to uniformly scale features using an affine transformation </p>
