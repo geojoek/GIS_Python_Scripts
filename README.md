@@ -8,4 +8,4 @@
 <p>Requires osgeo module:  https://anaconda.org/conda-forge/gdal</p>
 
 <h2>scale_features.py</h2>
-<p> A simple script using the <a href="https://pypi.org/project/Fiona/" target="blank">Fiona</a> and <a href="https://pypi.org/project/Shapely/" target="blank">Shapely</a> libraries to uniformly scale features using an affine transformation </p>
+<p> A simple script using the <a href="https://pypi.org/project/Fiona/" target="_blank">Fiona</a> and <a href="https://pypi.org/project/Shapely/" target="_blank">Shapely</a> libraries to uniformly scale features using an affine transformation </p>
